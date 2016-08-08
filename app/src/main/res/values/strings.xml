@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KGTest</string>
+    <string name="hent_message">Enter your Text ...</string>
 </resources>
