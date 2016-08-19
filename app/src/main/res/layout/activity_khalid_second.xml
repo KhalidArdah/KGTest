@@ -9,4 +9,17 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.khalid.gazzawi.kgtest.khalidSecondActivity">
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/textView"
+        android:layout_gravity="left" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:text="@string/next"
+        android:id="@+id/nxt"/>
 </RelativeLayout>
